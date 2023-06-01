@@ -4,7 +4,7 @@ import './App.css';
 import { BlueStripe } from './BlueStripe'
 import { RecoilRoot } from 'recoil'
 import { GreenStripe } from './GreenStripe'
-
+//this is my comment 
 const queryClient = new QueryClient()
 
 function App() {
